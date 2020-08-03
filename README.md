@@ -7,3 +7,8 @@
 > * **Results on the test dataset are as follows:**
 
 ![result](result.png)
+
+> * **I have used saliency maps for getting the region where the CNN is looking patterns**
+> * **For promoter class an example is given below
+
+![analysis](5174_pro_analysis.png)
